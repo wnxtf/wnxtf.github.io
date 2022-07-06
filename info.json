@@ -1,0 +1,124 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://lltip.gitee.io/llt/",
+            "path": "index.html",
+            "saved": true,
+            "size": 9610,
+            "children": [
+                {
+                    "url": "https://nim-nosdn.netease.im/MTExNTUxNzE=/bmltYV8zMzY4NzE2MzU4NV8xNjUxMjM1NjU4NDMwX2ZlNjlkOGExLTdkNzMtNDI1My1hYTIwLWJjNGI0ZTA5ZmM3NA==?createTime=1651235660768",
+                    "path": "img/bmltYV8zMzY4NzE2MzU4NV8xNjUxMjM1NjU4NDMwX2ZlNjlkOGExLTdkNzMtNDI1My1hYTIwLWJjNGI0ZTA5ZmM3NA==.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://nim-nosdn.netease.im/MTExNTUxNzE=/bmltYV8zMzY4NzE2MzU4NV8xNjUxMjM1NDIzNzg3X2VkMDU1YjdiLTNkMWQtNDhmNS1iZDFkLWZlMjRjMzM0ZjRjNg==?createTime=1651235431197",
+                    "saved": false
+                },
+                {
+                    "url": "https://nim-nosdn.netease.im/MTExNTUxNzE=/bmltYV8zMzY4NzE2MzU4NV8xNjUxMjM0MzU5NTMxXzNhNDk1OWRiLWQwN2ItNDVmOS05MDYwLWM5ZTdjYjRmN2RhNg==?createTime=1651234360685",
+                    "path": "img/bmltYV8zMzY4NzE2MzU4NV8xNjUxMjM0MzU5NTMxXzNhNDk1OWRiLWQwN2ItNDVmOS05MDYwLWM5ZTdjYjRmN2RhNg==.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://lltip.gitee.io/llt/jquery-1.11.0.min.js",
+                    "path": "js/jquery-1.11.0.min.js",
+                    "saved": true,
+                    "size": 96380,
+                    "children": []
+                },
+                {
+                    "url": "http://lltip.gitee.io/llt/sweetalert.min.js",
+                    "path": "js/sweetalert.min.js",
+                    "saved": true,
+                    "size": 40811,
+                    "children": []
+                },
+                {
+                    "url": "http://lltip.gitee.io/llt/main.js",
+                    "path": "js/main.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://lltip.gitee.io/llt/favicon.png",
+                    "saved": false
+                },
+                {
+                    "url": "http://lltip.gitee.io/llt/%79%74%77%6c%67%7a%73%2e%67%69%74%65%65%2e%69%6f/%6d%70/",
+                    "saved": false
+                },
+                {
+                    "url": "http://lltip.gitee.io/llt/520.mp3",
+                    "path": "media/520.mp3",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "lltip-gitee-io-l15tgdmo",
+    "info": {
+        "remark": [],
+        "title": "苹果玲珑塔官网",
+        "domain": "lltip.gitee.io",
+        "origin": "http://lltip.gitee.io",
+        "ip": "212.64.62.183",
+        "main": "index.html",
+        "url": "http://lltip.gitee.io/llt/",
+        "totalSize": "147 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://lltip.gitee.io/llt/#1",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://lltip.gitee.io/llt/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Wed, 04 May 2022 13:02:11 GMT",
+                "content-type": "text/html",
+                "content-length": "10625",
+                "connection": "close",
+                "server": "openresty",
+                "last-modified": "Sat, 30 Apr 2022 06:43:07 GMT",
+                "etag": "\"626cda7b-2981\"",
+                "expires": "Thu, 05 May 2022 13:02:11 GMT",
+                "cache-control": "max-age=86400",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-05-04T13:02:10.854Z",
+            "end": "2022-05-04T13:02:41.097Z"
+        }
+    },
+    "options": {
+        "url": "http://lltip.gitee.io/llt/#1",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
